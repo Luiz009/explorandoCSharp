@@ -1,0 +1,15 @@
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\bin\Debug\net6.0\P11-CalculaPoupaca2.exe
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\bin\Debug\net6.0\P11-CalculaPoupaca2.deps.json
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\bin\Debug\net6.0\P11-CalculaPoupaca2.runtimeconfig.json
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\bin\Debug\net6.0\P11-CalculaPoupaca2.dll
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\bin\Debug\net6.0\P11-CalculaPoupaca2.pdb
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.csproj.AssemblyReference.cache
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.AssemblyInfoInputs.cache
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.AssemblyInfo.cs
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.dll
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\refint\P11-CalculaPoupaca2.dll
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.pdb
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\P11-CalculaPoupaca2.genruntimeconfig.cache
+C:\Users\Luiz\source\repos\Aprendendo CSharp\P11-CalculaPoupaca2\obj\Debug\net6.0\ref\P11-CalculaPoupaca2.dll
